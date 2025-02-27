@@ -3,9 +3,9 @@ int[] arr = { 28, 230, 9, 310, 72};
 
 void setup() {
 
-  //1.c Call and print getRandom
-  int getElement = getRandom();
-  println(getElement);
+  //1.c Call and print getRandom 
+  println(getRandom());
+  
 }
 
 //1.b Write method that returns random element from arr[]

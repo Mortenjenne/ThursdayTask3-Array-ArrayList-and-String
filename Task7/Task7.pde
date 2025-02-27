@@ -8,7 +8,7 @@ ArrayList<Boolean> isTrue = new ArrayList();
 
 void setup() {
 
-  //Assign at least 3 different values to each of them:
+  //7.a Assign at least 3 different values to each of them:
   numbers.add(10);
   numbers.add(15);
   numbers.add(14);

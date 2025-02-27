@@ -5,7 +5,7 @@ String city = "Odense";
 //2.d Get length of String input
 int numberOfChars = city.length();
 
-//2.b/2.d Call method from setup
+//2.b/2.d Call method from setup. Use numberOfChar-4 to get the last 4 chars in each string assigned
 String input = printPartOfWorld(city,numberOfChars-4,numberOfChars); 
 println(input);
 }

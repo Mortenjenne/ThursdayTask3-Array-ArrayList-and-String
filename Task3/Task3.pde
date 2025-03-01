@@ -1,5 +1,4 @@
 //3.a Declare and initialize a String array which we will use to hold the names of five top rappers
-
 String[] rappers = {"Tupac Shakur(2Pac)", "The Notorious B.I.G", "Jay-Z", "Eminem", "Kendrick Lamar"};
 
 //3.c Hits of artist

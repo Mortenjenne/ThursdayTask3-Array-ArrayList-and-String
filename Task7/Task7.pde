@@ -1,3 +1,4 @@
+
 import java.util.ArrayList;
 
 //7.a Create three ArrayLists that can hold the following types
